@@ -1,7 +1,7 @@
 # jira-scriptrunner
 Jira Scriptrunner scripts
 
-## CreateJiraIssueFromConfluenceForm.groovy
+## [CreateJiraIssueFromConfluenceForm.groovy](https://github.com/t3knoid/jira-scriptrunner/blob/main/CreateJiraIssueFromConfluenceForm.groovy)
 This script a Jira REST endpoint that will capture data from a form submitted using Forms for Confluence by Adaptivist. The data will be used to create a Jira ticket.
 
 ### Forms for Confluence Form
